@@ -1,0 +1,14 @@
+[project]
+name = "dafer-propulsion"
+version = "0.1.0"
+description = "Rocket propulsion related tools and materials."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "dearpygui>=2.3.1",
+    "matplotlib>=3.10.9",
+    "numba>=0.65.1",
+    "numpy>=2.4.4",
+    "pyfluids>=2.9.0",
+    "scipy>=1.17.1",
+]
