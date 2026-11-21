@@ -1,0 +1,4 @@
+[test]
+mode = 23
+a = 255
+opt = {a="3", b="sadf"}
